@@ -1,5 +1,5 @@
 # Online-Library-web-page
-just extract the zip and put it into VScode, then run  the index.js do not forget that you have to fill the password section with your own Google account's password or you have to create a Google App password and write the password in that related field. 
+just extract the zip and put it into VScode, then run  the index.js, Do not forget that you have to fill the password section with your own Google account's password or you have to create a Google App password and write the password in that related field. 
 
 ![Screenshot 2024-10-24 142814](https://github.com/user-attachments/assets/01ffa692-037e-4eae-8017-121455190a3c)
 ![Screenshot 2024-10-24 142859](https://github.com/user-attachments/assets/d664ce2e-7905-4c6d-a696-38d07bc65da1)
